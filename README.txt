@@ -1,7 +1,4 @@
-# _startTemplate
-Basic template for new projects. Gulpfile with main tasks included.
-
-Install:
+StartTemplate INSTALLATION STEPS:
 
 1.Initiate package.json
 
